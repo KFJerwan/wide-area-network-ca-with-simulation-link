@@ -5,7 +5,13 @@
 **Student ID:** ICTU20234174  
 **Course:** Wide Area Networks  
 **Community:** Nlongkak, Yaoundé, Cameroon  
-**Submission Date:** October 24, 2025
+## Simulation Video Demo
+
+Here is a short video demonstration of the CloudWaste Yaoundé ns-3 LTE/WAN simulation running:
+
+[![CloudWaste Yaoundé Simulation Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](YOUR_GOOGLE_DRIVE_SHARE_LINK_HERE)
+
+(Click the image or this link: [Watch Simulation Video]([YOUR_GOOGLE_DRIVE_SHARE_LINK_HERE](https://drive.google.com/file/d/1ASnHvYuZZmVbBrfhM67Y1EVka96bK-ke/view?usp=sharing)))
 
 ---
 
